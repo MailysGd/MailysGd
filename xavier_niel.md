@@ -47,3 +47,14 @@ De plus, la Station possède de nombreux partenaires ( Facebook, HEC, Microsoft,
 
 Au cours de sa carrière, Xavier Niel à développé de nombreux autres projets. Il a entre autre crée Kima Ventures (une entreprises investissant dans des start-ups), investi dans de nombreuses applications aujourd'hui connues tels que SnapChat, Deezer, Uber, etc. Il possède de nombreux biens immobiliers tel que des hôtels ou autres. En mars 2022, il a crée l'école Hectar, spécialisée dans l'agriculture moderne.
 Tout ces projets sont de grands acteurs lui permettant de développer sa fortune personnelle, et d'investir dans de futurs grands projets.
+
+### Distinctions
+
+- Novembre 2009 : prix du « Manager de l'année de BFM Radio » ;
+- 6 octobre 2011 : prix de la « Personnalité digitale influente de l'année » ;
+- Mars 2013 : le titre d'homme le plus influent des médias lui est décerné par GQ pour la troisième année consécutive ;
+- 2014 : « patron préféré des Français » (par un sondage réalisé par l'institut Promise Consulting Inc.) ;
+- Novembre 2014 : deuxième entrepreneur incarnant le mieux l'innovation, derrière Bill Gates, par le magazine Challenges ;
+- Août 2015 : personnalité mondiale la plus influente du numérique, par le magazine Wired ;
+- Février 2017 : Français le plus influent du monde à l'étranger, par le magazine Vanity Fair ;
+- 31 décembre 2021 : il est gratifié du titre de chevalier de la Légion d'honneur.
