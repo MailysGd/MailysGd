@@ -3,20 +3,20 @@ Xavier Niel
 
 [Notre wiki de présentation de Xavier Niel](http://xavier-niel.wikidot.com/home:home)
 
-## Table des éléments
-### 1. [Formations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#1-formations-1)
-### 2. [Créations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#2-cr%C3%A9ations-1)
-### 3. [Distinctions](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#distinctions)
+# Table des éléments
+## 1. [Formations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#1-formations-1)
+## 2. [Créations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#2-cr%C3%A9ations-1)
+## 3. [Distinctions](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#distinctions)
 
 Note : Cette page est crée par deux étudiants en 1ère année au département Informatique de l'IUT d'Aix-En-Provence.
 
-### 1. Formations
+## 1. Formations
 
 Xavier Niel est né le 25 Août 1967 à Maison-Alfort, une ville de la région Parisienne.
 
 Il étudie au lycée privé Saint-Michel-de-Picpus, à Paris. Durant ce temps, il apprend à se servir du Minitel et crée un réseau de Minitel Rose en 1984. Plus tard, il part en classe préparatoire scientifique à l'ESME Sudria mais abandonne bien vite ses études en 1987. En effet, il décide de co-fonder une entreprise proposant des services pornographiques par Minitel avec un ancien employé de la banque Société Générale, lui permettant de développer sa fortune. A 24 ans seulement, Xavier Niel devient millionnaire.
 
-### 2. Créations
+## 2. Créations
 
 ### Iliad
 
@@ -48,7 +48,7 @@ De plus, la Station possède de nombreux partenaires ( Facebook, HEC, Microsoft,
 Au cours de sa carrière, Xavier Niel à développé de nombreux autres projets. Il a entre autre crée Kima Ventures (une entreprises investissant dans des start-ups), investi dans de nombreuses applications aujourd'hui connues tels que SnapChat, Deezer, Uber, etc. Il possède de nombreux biens immobiliers tel que des hôtels ou autres. En mars 2022, il a crée l'école Hectar, spécialisée dans l'agriculture moderne.
 Tout ces projets sont de grands acteurs lui permettant de développer sa fortune personnelle, et d'investir dans de futurs grands projets.
 
-### 3. Distinctions
+## 3. Distinctions
 
 Il est aujourd'hui 8ème plus grande fortune de France avec une fortune élevée à plus de 8 Md d'euros. Depuis 2021, il est Chevalier de la Légion d'Honneur.
 
