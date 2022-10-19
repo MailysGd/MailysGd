@@ -10,7 +10,7 @@ Xavier Niel
 
 Note : Cette page est crée par deux étudiants en 1ère année au département Informatique de l'IUT d'Aix-En-Provence.
 
-### 1. Formations
+### 1. [Formations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#1-formations-1)
 
 Xavier Niel est né le 25 Août 1967 à Maison-Alfort, une ville de la région Parisienne.
 
