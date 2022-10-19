@@ -1,7 +1,7 @@
-[Notre wiki de présentation de Xavier Niel](http://xavier-niel.wikidot.com/home:home)
-
 Xavier Niel
 ===========
+
+[Notre wiki de présentation de Xavier Niel](http://xavier-niel.wikidot.com/home:home)
 
 ## Table des éléments
 ### 1. Formations
