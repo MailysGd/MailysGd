@@ -42,3 +42,8 @@ Ainsi, un grand nombre d'étudiants de 42 ne terminent même pas leur cursus, é
 En avril 2017, Xavier Niel crée la Station F. Leur objectif est de financer des start-up afin de les soutenir dans leurs lancement, regroupant aujourd'hui pas moins de 1000 start-up en activité.
 La motivation de Xavier Niel était de soutenir les jeunes adultes à se lancer dans le monde de l'auto-entreprenariat. C'est dans ce but qu'il y a investi environ 250 millions d'euros. Ainsi, la Station F promet plus de 3000 emplois aux 1000 start-ups qui la composent, leur permettant un développement simplifié.
 De plus, la Station possède de nombreux partenaires ( Facebook, HEC, Microsoft, Inria, Ubisoft ou encore Moove Lab) enclins à accompagner les projets des start-ups.
+
+### Autres Projets
+
+Au cours de sa carrière, Xavier Niel à développé de nombreux autres projets. Il a entre autre crée Kima Ventures (une entreprises investissant dans des start-ups), investi dans de nombreuses applications aujourd'hui connues tels que SnapChat, Deezer, Uber, etc. Il possède de nombreux biens immobiliers tel que des hôtels ou autres. En mars 2022, il a crée l'école Hectar, spécialisée dans l'agriculture moderne.
+Tout ces projets sont de grands acteurs lui permettant de développer sa fortune personnelle, et d'investir dans de futurs grands projets.
