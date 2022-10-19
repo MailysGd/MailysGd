@@ -8,7 +8,7 @@ Xavier Niel
 ## 2. [Créations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#2-cr%C3%A9ations-1)
 ## 3. [Distinctions](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#distinctions)
 
-Note : Cette page est crée par deux étudiants en 1ère année au département Informatique de l'IUT d'Aix-En-Provence.
+_Note : Cette page est crée par deux étudiants en 1ère année au département Informatique de l'IUT d'Aix-En-Provence._
 
 ## 1. Formations
 
