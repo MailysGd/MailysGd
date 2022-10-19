@@ -18,26 +18,26 @@ Il étudie au lycée privé Saint-Michel-de-Picpus, à Paris. Durant ce temps, i
 
 ### 2. Créations
 
-## Iliad
+### Iliad
 
 En 1990, Xavier Niel rachète à son associé Fernand Develter 50% des actions de l'entreprise de Minitel Rose Fermic Multimedi. Un an plus tard, il le rebaptise Iliad, groupe aujourd'hui connu comme étant la maison mère de Free. Avec le développement constant d'Internet, et surtout l'évolution des mentalités concernant la technologie, Iliad se lance en 1994 sur le marché de la fourniture d'accès à Internet.
 Pour améliorer son implantation sur le marché, Iliad décide de relier ses services Minitel avec le fournisseur d'Internet Worldnet. En 1996, le service « 3617 ANNU » est lancé par l'entreprise. Il s'agit d'une filiale qui a pour but le développement, la production et la commercialisation de services d'annuaire inversé.
 En 1999, le groupe obtient le droit de d'exploiter son propre réseau télécom et de commercialiser des services de télécom au grand public. Cela mènera à la création de Free.
 Depuis, Iliad est devenue une entreprise réellement influente dans le monde de la télécommunication et s'impose comme un des groupes les plus influents dans leur domaine.
 
-## La création de Free
+### La création de Free
 
 En 1999, Free voit le jour, avec pour objectif de vendre un accès à Internet aux gens. Cependant, ils souhaitent aussi créer des offres et de téléphonie qui seraient comprises avec Internet. Le projet de la création d'une box comprenant les trois voit le jour.
 Ce projet aboutit le 1er novembre 2002, avec l'arrivée de la Freebox. Free à donc inventé un concept aujourd'hui incontournable dans le monde des réseaux de fournisseur d'Internet. Le 11 septembre 2006, la Fondation Free est crée dans l'objectif de réduire la facture électronique. Les fonds de la fondations fonds serviront plus tard à financer l'école 42.
 En 2020, Free fera un bénéfice de 3 266 498 000.00 €. Ils sont aujourd'hui l'opérateur le moins cher du marché Français, nous mettant en avance par rapports aux opérateurs de nos voisins européens.
 
-## L'école 42
+### L'école 42
 
 Xavier Niel découvre alors que le l'éducation n'est pas assez axée sur la technologie et Internet, ou trop chère. C'est pourquoi, en 2013, en collaboration avec Nicolas Saridac , il fonde L'École 42. C'est une école révolutionnaire qui propose une formation informatique gratuite à ses élèves.
 Celle ci met en place des projets et collaboratifs pour les étudiants, leur permettant de devenir plus autonomes et de travailler dans un cadre de type professionnel. Les étudiants sont donc mieux préparés à la vie professionnelle et peuvent travailler à leur propre rythme.
 Ainsi, un grand nombre d'étudiants de 42 ne terminent même pas leur cursus, étant engagés par diverses entreprises avant même la fin de leurs études.
 
-## Station F
+### Station F
 
 En avril 2017, Xavier Niel crée la Station F. Leur objectif est de financer des start-up afin de les soutenir dans leurs lancement, regroupant aujourd'hui pas moins de 1000 start-up en activité.
 La motivation de Xavier Niel était de soutenir les jeunes adultes à se lancer dans le monde de l'auto-entreprenariat. C'est dans ce but qu'il y a investi environ 250 millions d'euros. Ainsi, la Station F promet plus de 3000 emplois aux 1000 start-ups qui la composent, leur permettant un développement simplifié.
