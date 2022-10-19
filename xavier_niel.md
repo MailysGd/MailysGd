@@ -6,7 +6,7 @@ Xavier Niel
 ## Table des éléments
 ### 1. [Formations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#1-formations-1)
 ### 2. [Créations](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#2-cr%C3%A9ations-1)
-### 3. Distinctions
+### 3. [Distinctions](https://github.com/MailysGd/MailysGd/blob/main/xavier_niel.md#distinctions)
 
 Note : Cette page est crée par deux étudiants en 1ère année au département Informatique de l'IUT d'Aix-En-Provence.
 
@@ -48,7 +48,9 @@ De plus, la Station possède de nombreux partenaires ( Facebook, HEC, Microsoft,
 Au cours de sa carrière, Xavier Niel à développé de nombreux autres projets. Il a entre autre crée Kima Ventures (une entreprises investissant dans des start-ups), investi dans de nombreuses applications aujourd'hui connues tels que SnapChat, Deezer, Uber, etc. Il possède de nombreux biens immobiliers tel que des hôtels ou autres. En mars 2022, il a crée l'école Hectar, spécialisée dans l'agriculture moderne.
 Tout ces projets sont de grands acteurs lui permettant de développer sa fortune personnelle, et d'investir dans de futurs grands projets.
 
-### Distinctions
+### 3. Distinctions
+
+Il est aujourd'hui 8ème plus grande fortune de France avec une fortune élevée à plus de 8 Md d'euros. Depuis 2021, il est Chevalier de la Légion d'Honneur.
 
 - Novembre 2009 : prix du « Manager de l'année de BFM Radio » ;
 - 6 octobre 2011 : prix de la « Personnalité digitale influente de l'année » ;
